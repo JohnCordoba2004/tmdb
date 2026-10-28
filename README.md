@@ -60,12 +60,13 @@ Construido desde cero con **Vanilla TypeScript**, enfocándose en la manipulaci�
 
 
 💡 Lo que aprendí construyendo esto
-A implementar un Debounce manual para mejorar el rendimiento de las búsquedas.
 
-A manejar Race Conditions en las peticiones HTTP (evitando que datos viejos sobrescriban los nuevos).
+- Implementar un Debounce manual para mejorar el rendimiento de las búsquedas.
 
-A estructurar un proyecto de Vanilla TS escalable, separando la lógica de la red, el renderizado y el manejo del DOM.
+- Manejar Race Conditions en las peticiones HTTP (evitando que datos viejos sobrescriban los nuevos).
 
-A utilizar la etiqueta <dialog> nativa para crear modales accesibles y sin dependencias externas.
+- Estructurar un proyecto de Vanilla TS escalable, separando la lógica de la red, el renderizado y el manejo del DOM.
 
-Hecho con ❤️ y mucho amor por John Córdoba.
+- Utilizar la etiqueta <dialog> nativa para crear modales accesibles y sin dependencias externas.
+
+Hecho con ❤️ y muchas ganas por John Córdoba.
