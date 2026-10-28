@@ -50,6 +50,8 @@ Construido desde cero con **Vanilla TypeScript**, enfocándose en la manipulaci�
 
 📸 Captura de Pantalla
 
+url proyecto: https://tmdb-jc.vercel.app/
+
 <img width="2542" height="1300" alt="image" src="https://github.com/user-attachments/assets/d8ae1c43-6f25-4aff-b1fc-96ea96ca16df" />
 
 <img width="1118" height="706" alt="image" src="https://github.com/user-attachments/assets/dc264953-f581-4458-a73c-e5bff9d4e564" />
