@@ -31,7 +31,7 @@ Construido desde cero con **Vanilla TypeScript**, enfoc√°ndose en la manipulaci√
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/[TU_USUARIO]/[NOMBRE_DEL_REPO].git
+   git clone https://github.com/JohnCordoba2004/tmdb.git
    
 2. Entra en la carpeta del proyecto:
    cd tmdb
